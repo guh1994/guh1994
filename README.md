@@ -8,8 +8,8 @@
 
   <div align="center">
   <a href="https://github.com/deboramds">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guh1994&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guh1994&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 <!--
 **guh1994/guh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
