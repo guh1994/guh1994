@@ -3,9 +3,9 @@
 - Software engineer Jr in Media Portal Solutions
 - Student Software Engineer to Alura
 - Student Good Practice Java to Alura
-
+<div style="display: inline_block"><br>
   ![giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ2OHZrNXFmaWZrcHd6ZGpiano3OGUwaXQyd25zMGN4aGFtZ251diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)
-
+</div>
   <div align="center">
   <a href="https://github.com/deboramds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
