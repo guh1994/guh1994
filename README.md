@@ -4,10 +4,15 @@
 - Student Software Engineer to Alura
 - Student Good Practice Java to Alura
 
+<div align="center">
+  
   ![giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ2OHZrNXFmaWZrcHd6ZGpiano3OGUwaXQyd25zMGN4aGFtZ251diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)
+    
+</div>
+  
 
   <div align="center">
-  <a href="https://github.com/deboramds">
+  <a href="https://github.com/guh1994">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
