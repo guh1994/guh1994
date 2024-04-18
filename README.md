@@ -1,9 +1,3 @@
-# 👋 Olá! Bem vindo ao meu perfil Github.
-## Meu nome é Gustavo Silva !
-- Desenvolvedor Java Jr na Media Portal Soluções
-- Estudante de Engenharia de Software pela Alura
-- Estudante de Boas Praticas Java pela Alura 
-  
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gustavo Silva !
 - Software engineer Jr in Media Portal Solutions
