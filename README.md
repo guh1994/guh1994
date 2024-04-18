@@ -29,6 +29,14 @@
   <img align="center" alt="Debora-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Debora-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" />
 </div>
+
+##
+
+<div align="center"> 
+  <a href="mailto:gustavo.ferreira.silva1994@hotmail.com"_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius:50px;"></a>
+   <a href="https://www.linkedin.com/in/gustavo-ferreira-da-silva-b69b71115/" target"=_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+ 	
+</div>
 <!--
 **guh1994/guh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
