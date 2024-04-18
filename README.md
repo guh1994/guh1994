@@ -10,7 +10,7 @@
 - Student Software Engineer to Alura
 - Student Good Practice Java to Alura
 
-  ![giphy](https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP)
+  ![giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ2OHZrNXFmaWZrcHd6ZGpiano3OGUwaXQyd25zMGN4aGFtZ251diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)
 <!--
 **guh1994/guh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
