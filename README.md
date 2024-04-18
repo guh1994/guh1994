@@ -11,6 +11,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guh1994&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
+
+### Linguagens e Ferramentas:
+<div style="display: inline_block"><br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+</div>
 <!--
 **guh1994/guh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
