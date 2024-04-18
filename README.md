@@ -1,5 +1,8 @@
-### Hi there 👋
+# 👋 Olá! Bem vindo ao meu perfil Github.
+## Meu nome é Gustavo Silva !
 
+# 👋 Hello! Welcome to my Github profile.
+## My name is Gustavo Silva !
 <!--
 **guh1994/guh1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
