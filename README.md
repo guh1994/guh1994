@@ -3,7 +3,9 @@
 - Software engineer Jr in Media Portal Solutions
 - Student Software Engineer to Alura
 - Student Good Practice Java to Alura
-
+- Graduated System Analysis and Development By Uninove
+- Graduate development to internet by ETEC
+  
 <div align="center">
   
   ![giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ2OHZrNXFmaWZrcHd6ZGpiano3OGUwaXQyd25zMGN4aGFtZ251diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)
